@@ -1,4 +1,23 @@
+👋 Hi, I'm Ayush!
 
+💻 **B.Tech CSE Student | Aspiring Software Developer | AI/ML Enthusiast 🇮🇳**
+
+🚀 Passionate about coding, problem-solving, and building real-world projects using technology.
+
+- 🔭 **I'm currently working on:** AI-Based Student Performance Predictor & Early Warning System 🤖
+- 🌱 **I'm currently learning:** Python, Data Structures & Algorithms (DSA), SQL, and Machine Learning 📚
+- 👯 **I'm looking to collaborate on:** AI/ML Projects, Python Applications, and Innovative Tech Projects 🤝
+- 🤔 **I'm looking for help with:** Improving my coding skills, Machine Learning, and building industry-level projects 💡
+- 💬 **Ask me about:** Python, SQL, DSA Basics, and Student AI Projects 💻
+- 📫 **How to reach me:** Connect with me on GitHub!
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I believe every error is just another opportunity to learn something new! 🚀
+
+### 🛠️ Technologies & Tools
+Python | SQL | Git | GitHub | Machine Learning
+
+### 🎯 My Goal
+To become a skilled software engineer by continuously learning, building projects, and solving real-world problems through technology. 🚀
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-thakur143) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:studentmein143@gmail.com) 
 
